@@ -1,6 +1,6 @@
 # Data Mining - GEMASTIK XIV
 
-Pagelaran Mahasiswa Nasional Bidang TIK (GEMASTIK) is the biggest annual IT event held by the Ministry of Education. Selected as one of 20 finalists from over 153 teams participated from universities across Indonesia.
+Pagelaran Mahasiswa Nasional Bidang TIK (GEMASTIK) is the biggest annual IT event held by the Ministry of Education. 
 
 * Darren Ngoh
 * Ardhani Dzaky
